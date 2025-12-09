@@ -1,2 +1,11 @@
-# affiliate-links
-All my Amazon &amp; Meesho affiliate links stored at one place.
+# Affiliate Links
+
+## 📌 Amazon Links
+- 👉 Depression Book – https://amzn.to/48Bu5Qd
+- 👉 दुसरी लिंक असेल तर येथे टाका
+
+## 📌 Meesho Links
+- 👉 (Meesho link तयार झाल्यावर येथे टाका)
+
+## 📌 इतर Affiliate Links
+- 👉 इथे हवे ते नवे लिंक टाकत जा
